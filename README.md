@@ -81,8 +81,8 @@
 
 | Platform | Profile | Stats |
 |:---:|:---:|:---:|
-| **LeetCode** | [![LeetCode](https://img.shields.io/badge/LeetCode-akshat-26-FFA116?style=flat&logo=leetcode)](https://leetcode.com/akshat-26) | ![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/akshat-26?theme=dark) |
-| **Codeforces** | [![Codeforces](https://img.shields.io/badge/Codeforces-akshat-26-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/akshat-26) | ![CF Rating](https://cp-logo.vercel.app/codeforces/akshat-26]) |
+| **LeetCode** | [![LeetCode](https://img.shields.io/badge/LeetCode-akshat-26-FFA116?style=flat&logo=leetcode)](https://leetcode.com/akshat-26) | ![LeetCode Stats](https://leetcard.jacoblin.cool/akshat-26?theme=dark) |
+| **Codeforces** | [![Codeforces](https://img.shields.io/badge/Codeforces-akshat-26-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/akshat-26) | ![CF Rating](https://cp-logo.vercel.app/codeforces/akshat-26) |
 | **CodeChef** | [![CodeChef](https://img.shields.io/badge/CodeChef-akshat2600-5B4638?style=flat&logo=codechef)](https://www.codechef.com/users/akshat2600) | ![CC Rating](https://cp-logo.vercel.app/codechef/akshat2600) |
 | **HackerRank** | [![HackerRank](https://img.shields.io/badge/HackerRank-saxenaakshat2612-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/saxenaakshat2612) | ⭐ [Add Rating Manually] |
 | **GeeksforGeeks** | [![GFG](https://img.shields.io/badge/GeeksforGeeks-saxenaakskum0-0F9D58?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/saxenaakskum0) | 🏅 [Add Rank Manually] |
@@ -502,16 +502,6 @@
 
 <br/>
 
-<details>
-<summary>😄 Random Dev Joke</summary>
-<br/>
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&hideBorder)
-
-</div>
-</details>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -581,7 +571,7 @@ jobs:
 *I'm actively looking for **Software Engineering**, **ML Engineering**, **Backend Development** and **Data Science** roles.*  
 *Feel free to reach out — let's build something great together!*
 
-📧 **akshatsaxena890@gmail.com** · 🌐 **[YOUR_PORTFOLIO_URL]** · 💼 **[linkedin.com/in/akshat-26](https://linkedin.com/in/akshat-26)**
+📧 **akshatsaxena890@gmail.com** · 🌐 **[YOUR_PORTFOLIO_URL]** · 💼 **[linkedin.com/in/akshat-26](https://linkedin.com/in/akshat-saxena-44413b31b)**
 
 <br/>
 
@@ -589,6 +579,6 @@ jobs:
 
 *⭐ If you find my work interesting, consider giving a star to my repositories!*
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202025-blue?style=flat)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202026-blue?style=flat)
 
 </div>
