@@ -496,13 +496,13 @@
 
 <div align="center">
 
-<!-- This requires a GitHub Actions workflow. See setup instructions below. -->
-<!-- Setup: https://github.com/Platane/snk -->
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshat-2600/akshat-2600/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshat-2600/akshat-2600/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/akshat-2600/akshat-2600/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/akshat-2600/akshat-2600/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/akshat-2600/akshat-2600/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/akshat-2600/akshat-2600/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
