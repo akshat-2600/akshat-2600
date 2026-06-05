@@ -112,11 +112,11 @@
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<!-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)-->
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+<!-- ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) -->
 
 </details>
 
@@ -153,7 +153,7 @@
 
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+<!-- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) -->
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
@@ -163,8 +163,8 @@
 <summary><b>🎨 Frontend</b></summary>
 <br/>
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+<!-- ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) -->
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -178,7 +178,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<!-- ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
 
 </details>
 
@@ -187,10 +187,10 @@
 <br/>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<!--![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </details>
@@ -230,13 +230,13 @@
 <div align="center">
 
 <!-- Profile Summary Cards — Replace [YOUR_GITHUB_USERNAME] -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YOUR_GITHUB_USERNAME]&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshat-2600&theme=github_dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=[YOUR_GITHUB_USERNAME]&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=[YOUR_GITHUB_USERNAME]&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshat-2600&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshat-2600&theme=github_dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=[YOUR_GITHUB_USERNAME]&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=[YOUR_GITHUB_USERNAME]&theme=github_dark&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshat-2600&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshat-2600&theme=github_dark&utcOffset=5.5" />
 
 </div>
 
@@ -247,7 +247,7 @@
 <div align="center">
 
 <!-- Replace [YOUR_GITHUB_USERNAME] -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshat-2600&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -263,18 +263,18 @@
 
 ### 🟡 LeetCode
 <!-- Replace [YOUR_LEETCODE_USERNAME] -->
-[![LeetCode user [YOUR_LEETCODE_USERNAME]](https://leetcode-badge-sage.vercel.app/badge/[YOUR_LEETCODE_USERNAME]?theme=dark&bgColor=282828)](https://leetcode.com/[YOUR_LEETCODE_USERNAME])
+[![LeetCode user akshat-26](https://leetcode-badge-sage.vercel.app/badge/akshat-26?theme=dark&bgColor=282828)](https://leetcode.com/akshat-26)
 
 </td>
 <td align="center" width="50%">
 
 ### 🔵 Codeforces
 <!-- Replace [YOUR_CF_USERNAME] -->
-[![Codeforces](https://cp-logo.vercel.app/codeforces/[YOUR_CF_USERNAME])](https://codeforces.com/profile/[YOUR_CF_USERNAME])
+[![Codeforces](https://cp-logo.vercel.app/codeforces/akshat-26)](https://codeforces.com/profile/akshat-26)
 
-**Handle:** [YOUR_CF_USERNAME]  
-**Max Rating:** [Add Manually]  
-**Rank:** [Add Manually]
+**Handle:** akshat-26  
+**Max Rating:** 
+**Rank:** 
 
 </td>
 </tr>
@@ -283,19 +283,19 @@
 
 ### 🟤 CodeChef
 <!-- Replace [YOUR_CC_USERNAME] -->
-[![CodeChef](https://cp-logo.vercel.app/codechef/[YOUR_CC_USERNAME])](https://www.codechef.com/users/[YOUR_CC_USERNAME])
+[![CodeChef](https://cp-logo.vercel.app/codechef/akshat2600)](https://www.codechef.com/users/akshat2600)
 
-**Handle:** [YOUR_CC_USERNAME]
+**Handle:** akshat2600
 
 </td>
 <td align="center">
 
 ### 🟢 GeeksforGeeks
 <!-- Replace [YOUR_GFG_USERNAME] -->
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-[YOUR_GFG_USERNAME]-0F9D58?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/[YOUR_GFG_USERNAME])
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-saxenaakskum0-0F9D58?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/saxenaakskum0)
 
-**Problems Solved:** [Add Manually]  
-**Institution Rank:** [Add Manually]
+**Problems Solved:**  
+**Institution Rank:** 
 
 </td>
 </tr>
@@ -319,6 +319,8 @@
 
 </details>
 
+<!--
+
 <details>
 <summary><b>☁️ Cloud Certifications</b></summary>
 <br/>
@@ -331,6 +333,8 @@
 
 </details>
 
+-->
+
 <details>
 <summary><b>📊 Data Science</b></summary>
 <br/>
@@ -342,6 +346,7 @@
 
 </details>
 
+<!--
 <details>
 <summary><b>💻 Programming & DSA</b></summary>
 <br/>
@@ -353,6 +358,7 @@
 
 </details>
 
+-->
 ---
 
 ## 🚀 Featured Projects
@@ -449,7 +455,7 @@
 <div align="center">
 
 <!-- Replace [YOUR_GITHUB_USERNAME] -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akshat-2600&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -459,9 +465,10 @@
 
 <!-- Dynamic open source stats -->
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-[![GitHub Issues](https://img.shields.io/github/issues-search?query=author%3A[YOUR_GITHUB_USERNAME]&label=Issues%20Opened&color=blue)](https://github.com/search?q=author:[YOUR_GITHUB_USERNAME]+type:issue)
-[![GitHub PRs](https://img.shields.io/github/issues-search?query=author%3A[YOUR_GITHUB_USERNAME]+type%3Apr&label=PRs%20Opened&color=green)](https://github.com/search?q=author:[YOUR_GITHUB_USERNAME]+type:pr)
+[![GitHub Issues](https://img.shields.io/github/issues-search?query=author%3Aakshat-2600&label=Issues%20Opened&color=blue)](https://github.com/search?q=author:akshat-2600+type:issue)
+[![GitHub PRs](https://img.shields.io/github/issues-search?query=author%3Aakshat-2600+type%3Apr&label=PRs%20Opened&color=green)](https://github.com/search?q=author:akshat-2600+type:pr)
 
+<!--
 </div>
 
 | Metric | Count |
@@ -470,7 +477,7 @@
 | 🐛 Issues Raised | [Add Manually] |
 | ⭐ Repositories Starred | [Add Manually] |
 | 🏢 Organizations | [Add Manually] |
-
+-->
 ---
 
 ## 🏅 GitHub Achievements & Trophies
@@ -478,23 +485,9 @@
 <div align="center">
 
 <!-- Replace [YOUR_GITHUB_USERNAME] -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akshat-2600&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
----
-
-## 📰 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Automatic feed via GitHub Actions workflow — see https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- Replace with your actual blog posts or configure the workflow -->
-- 📝 [Your Latest Blog Post Title 1]([YOUR_BLOG_POST_LINK_1])
-- 📝 [Your Latest Blog Post Title 2]([YOUR_BLOG_POST_LINK_2])
-- 📝 [Your Latest Blog Post Title 3]([YOUR_BLOG_POST_LINK_3])
-<!-- BLOG-POST-LIST:END -->
-
-> ✍️ [Read more on Medium](https://medium.com/@[YOUR_MEDIUM_USERNAME]) · [Dev.to](https://dev.to/[YOUR_DEVTO_USERNAME]) · [Personal Blog](https://[YOUR_BLOG_URL])
 
 ---
 
@@ -521,18 +514,6 @@
 
 ---
 
-## 🎵 Currently Listening To
-
-<div align="center">
-
-<!-- Replace [YOUR_SPOTIFY_USERNAME] — requires Novatorem Spotify setup -->
-<!-- See: https://github.com/novatorem/novatorem for setup instructions -->
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=58a6ff)](https://open.spotify.com/user/[YOUR_SPOTIFY_USERNAME])
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -541,9 +522,9 @@
 <!-- Setup: https://github.com/Platane/snk -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshat-2600/akshat-2600/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshat-2600/akshat-2600/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/akshat-2600/akshat-2600/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -581,7 +562,7 @@ jobs:
 <div align="center">
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/[YOUR_BMC_USERNAME])
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/[YOUR_GITHUB_USERNAME])
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/akshat-2600)
 
 </div>
 
@@ -591,16 +572,16 @@ jobs:
 
 ### 👁️ Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/[YOUR_GITHUB_USERNAME]/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/akshat-2600/count.svg)
 
 <br/>
 
 ### 🤝 Open to Opportunities
 
-*I'm actively looking for **Software Engineering**, **ML Engineering**, and **Data Science** roles.*  
+*I'm actively looking for **Software Engineering**, **ML Engineering**, **Backend Development** and **Data Science** roles.*  
 *Feel free to reach out — let's build something great together!*
 
-📧 **[YOUR_EMAIL]** · 🌐 **[YOUR_PORTFOLIO_URL]** · 💼 **[linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME])**
+📧 **akshatsaxena890@gmail.com** · 🌐 **[YOUR_PORTFOLIO_URL]** · 💼 **[linkedin.com/in/akshat-26](https://linkedin.com/in/akshat-26)**
 
 <br/>
 
