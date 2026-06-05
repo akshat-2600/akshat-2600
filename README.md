@@ -29,19 +29,12 @@
 
 ## 🧑‍💻 About Me
 
-<!--
-- 🏢 **Current Role:** [e.g., ML Engineer @ Company / Final Year CS Student at University]
-- 🔭 **Working On:** [e.g., LLM-powered applications & scalable ML pipelines]
-- 🌱 **Learning:** [e.g., MLOps, Distributed Systems, Transformers from scratch]
-- 💡 **Interests:** Machine Learning · Competitive Programming · Open Source · System Design
-- 🎯 **Goal:** [e.g., Contribute to cutting-edge AI research & build production-grade systems]
-- ⚡ **Fun Fact:** [e.g., I've solved 1000+ problems across competitive programming platforms]
--->
-
 - 🏢 **Current Role:** Third Year Artificial Intelligence Student at VIT Bhopal University 
+- 🔭 **Working On:** LLM-powered applications & scalable ML pipelines
 - 🌱 **Learning:** MLOps, Distributed Systems, Transformers from scratch
 - 💡 **Interests:** Machine Learning · Competitive Programming · Open Source · Backend Development
 - 🎯 **Goal:** Contribute to cutting-edge AI research & build production-grade systems
+
 ---
 
 ## 🌐 Connect With Me
@@ -468,16 +461,17 @@
 [![GitHub Issues](https://img.shields.io/github/issues-search?query=author%3Aakshat-2600&label=Issues%20Opened&color=blue)](https://github.com/search?q=author:akshat-2600+type:issue)
 [![GitHub PRs](https://img.shields.io/github/issues-search?query=author%3Aakshat-2600+type%3Apr&label=PRs%20Opened&color=green)](https://github.com/search?q=author:akshat-2600+type:pr)
 
-<!--
+
 </div>
 
 | Metric | Count |
 |---|---|
-| 🔀 Total Pull Requests | [Add Manually / Use github-stats] |
-| 🐛 Issues Raised | [Add Manually] |
-| ⭐ Repositories Starred | [Add Manually] |
-| 🏢 Organizations | [Add Manually] |
--->
+| 🔀 Total Pull Requests | # |
+| 🐛 Issues Raised | # |
+| ⭐ Repositories Starred | # |
+| 🏢 Organizations | # |
+
+
 ---
 
 ## 🏅 GitHub Achievements & Trophies
