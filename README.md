@@ -87,12 +87,13 @@
 <details>
 <summary><b>📊 LeetCode Detailed Stats</b></summary>
 <br/>
+
 <div align="center">
 
-<!-- Replace [YOUR_LEETCODE_USERNAME] -->
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=akshat-26&theme=dark)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/akshat-26?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/akshat-26/)
 
 </div>
+
 </details>
 
 ---
@@ -444,13 +445,6 @@
 ---
 
 ## 🤝 Open Source Contributions
-
-<div align="center">
-
-<!-- Replace [YOUR_GITHUB_USERNAME] -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=akshat-2600&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 <br/>
 
