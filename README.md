@@ -66,6 +66,23 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/akshat-2600/akshat-2600/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/akshat-2600/akshat-2600/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/akshat-2600/akshat-2600/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
 ## 🏆 Competitive Programming
 
 <div align="center">
@@ -492,48 +509,6 @@
 
 <br/>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/akshat-2600/akshat-2600/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/akshat-2600/akshat-2600/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/akshat-2600/akshat-2600/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<!-- 
-SNAKE SETUP INSTRUCTIONS:
-1. Create .github/workflows/snake.yml in your profile repo with:
-
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
 
 ---
 
