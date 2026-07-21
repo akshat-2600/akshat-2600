@@ -561,7 +561,7 @@ jobs:
 *I'm actively looking for **Software Engineering**, **ML Engineering**, **Backend Development** and **Data Science** roles.*  
 *Feel free to reach out — let's build something great together!*
 
-📧 **akshatsaxena890@gmail.com** · 🌐 **[YOUR_PORTFOLIO_URL]** · 💼 **[linkedin.com/in/akshat-26](https://linkedin.com/in/akshat-saxena-44413b31b)**
+📧 **akshatsaxena890@gmail.com** · 🌐 **[PORTFOLIO](https://akshat-portfolio-3yno.onrender.com/)** · 💼 **[linkedin.com/in/akshat-26](https://linkedin.com/in/akshat-saxena-44413b31b)**
 
 <br/>
 
