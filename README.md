@@ -257,7 +257,7 @@
 
 ### 🟡 LeetCode
 
-[![LeetCode user akshat-26](https://leetcode.card.workers.dev/akshat-26?theme=dark&font=baloo&extension=null)](https://leetcode.com/akshat-26)
+[![LeetCode user akshat-26](https://leetcard.jacoblin.cool/akshat-26?theme=dark&font=Karma&ext=contest)](https://leetcode.com/akshat-26)
 
 </td>
 <td align="center" width="50%">
@@ -286,7 +286,7 @@
 
 ### 🟢 GeeksforGeeks
 <!-- Replace [YOUR_GFG_USERNAME] -->
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-saxenaakskum0-0F9D58?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/saxenaakskum0)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-saxenaakskum0-0F9D58?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/akshat2600)
 
 **Problems Solved:**  
 **Institution Rank:** 
