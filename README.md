@@ -256,15 +256,15 @@
 <td align="center" width="50%">
 
 ### 🟡 LeetCode
-<!-- Replace [YOUR_LEETCODE_USERNAME] -->
-[![LeetCode user akshat-26](https://leetcode-badge-sage.vercel.app/badge/akshat-26?theme=dark&bgColor=282828)](https://leetcode.com/akshat-26)
+
+[![LeetCode user akshat-26](https://leetcode.card.workers.dev/akshat-26?theme=dark&font=baloo&extension=null)](https://leetcode.com/akshat-26)
 
 </td>
 <td align="center" width="50%">
 
 ### 🔵 Codeforces
-<!-- Replace [YOUR_CF_USERNAME] -->
-[![Codeforces](https://cp-logo.vercel.app/codeforces/akshat-26)](https://codeforces.com/profile/akshat-26)
+
+[![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=akshat-26)](https://codeforces.com/profile/akshat-26)
 
 **Handle:** akshat-26  
 **Max Rating:** 
@@ -277,7 +277,7 @@
 
 ### 🟤 CodeChef
 <!-- Replace [YOUR_CC_USERNAME] -->
-[![CodeChef](https://cp-logo.vercel.app/codechef/akshat2600)](https://www.codechef.com/users/akshat2600)
+[![CodeChef](https://codechef-readme-stats.vercel.app/api?username=akshat2600)](https://www.codechef.com/users/akshat2600)
 
 **Handle:** akshat2600
 
@@ -354,6 +354,7 @@
 
 -->
 ---
+<!--
 
 ## 🚀 Featured Projects
 
@@ -361,6 +362,7 @@
 
 <!-- Replace project details below. Duplicate a block to add more projects. -->
 
+<!--
 <table>
 <tr>
 <td width="50%">
@@ -443,7 +445,7 @@
 </div>
 
 ---
-
+-->
 ## 🤝 Open Source Contributions
 
 <br/>
