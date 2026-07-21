@@ -49,7 +49,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatsaxena890@gmail.com)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/akshat-26)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/saxenaakskum0)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/akshat2600)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/akshat-26)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/akshat2600)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/saxenaakshat2612)
@@ -78,7 +78,7 @@
 | **Codeforces** | [![Codeforces](https://img.shields.io/badge/Codeforces-akshat-26-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/akshat-26) | ![CF Rating](https://cp-logo.vercel.app/codeforces/akshat-26) |
 | **CodeChef** | [![CodeChef](https://img.shields.io/badge/CodeChef-akshat2600-5B4638?style=flat&logo=codechef)](https://www.codechef.com/users/akshat2600) | ![CC Rating](https://cp-logo.vercel.app/codechef/akshat2600) |
 | **HackerRank** | [![HackerRank](https://img.shields.io/badge/HackerRank-saxenaakshat2612-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/saxenaakshat2612) | ⭐ [Add Rating Manually] |
-| **GeeksforGeeks** | [![GFG](https://img.shields.io/badge/GeeksforGeeks-saxenaakskum0-0F9D58?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/saxenaakskum0) | 🏅 [Add Rank Manually] |
+| **GeeksforGeeks** | [![GFG](https://img.shields.io/badge/GeeksforGeeks-saxenaakskum0-0F9D58?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/akshat2600) | 🏅 [113 Problems Solved] |
 
 </div>
 
