@@ -256,11 +256,11 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-
-<!-- Replace [YOUR_GITHUB_USERNAME] -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshat-2600&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+     
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshat-2600&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com)
+  
 </div>
+
 
 ---
 
@@ -303,7 +303,7 @@
 
 ### 🟢 GeeksforGeeks
 <!-- Replace [YOUR_GFG_USERNAME] -->
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-saxenaakskum0-0F9D58?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/akshat2600)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-akshat2600-0F9D58?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/akshat2600)
 
 **Problems Solved:**  
 **Institution Rank:** 
@@ -490,11 +490,11 @@
 ## 🏅 GitHub Achievements & Trophies
 
 <div align="center">
-
-<!-- Replace [YOUR_GITHUB_USERNAME] -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=akshat-2600&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+     
+  [![trophy](https://github-profile-trophy.vercel.app/?username=akshat-2600&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com)
 
 </div>
+
 
 ---
 
