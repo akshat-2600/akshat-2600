@@ -82,7 +82,6 @@
 </div>
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff6b00&height=120&section=header"/>
 
 # 🔥 Contribution Activity
 
@@ -107,7 +106,6 @@ src="https://raw.githubusercontent.com/akshat-2600/akshat-2600/output/github-con
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff6b00&height=120&section=footer"/>
 
 ---
 
