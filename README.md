@@ -120,8 +120,8 @@ src="https://raw.githubusercontent.com/akshat-2600/akshat-2600/output/github-con
 | **LeetCode** | [![LeetCode](https://img.shields.io/badge/LeetCode-akshat-26-FFA116?style=flat&logo=leetcode)](https://leetcode.com/akshat-26) | ![LeetCode Stats](https://leetcard.jacoblin.cool/akshat-26?theme=dark) |
 | **Codeforces** | [![Codeforces](https://img.shields.io/badge/Codeforces-akshat-26-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/akshat-26) | ![CF Rating](https://cp-logo.vercel.app/codeforces/akshat-26) |
 | **CodeChef** | [![CodeChef](https://img.shields.io/badge/CodeChef-akshat2600-5B4638?style=flat&logo=codechef)](https://www.codechef.com/users/akshat2600) | ![CC Rating](https://cp-logo.vercel.app/codechef/akshat2600) |
-| **HackerRank** | [![HackerRank](https://img.shields.io/badge/HackerRank-saxenaakshat2612-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/saxenaakshat2612) | ⭐ [Add Rating Manually] |
-| **GeeksforGeeks** | [![GFG](https://img.shields.io/badge/GeeksforGeeks-saxenaakskum0-0F9D58?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/akshat2600) | 🏅 [118 Problems Solved] |
+| **HackerRank** | [![HackerRank](https://img.shields.io/badge/HackerRank-saxenaakshat2612-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/saxenaakshat2612) | ⭐ |
+| **GeeksforGeeks** | [![GFG](https://img.shields.io/badge/GeeksforGeeks-saxenaakskum0-0F9D58?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/akshat2600) | 🏅 120 Problems Solved] |
 
 </div>
 
